@@ -8,7 +8,7 @@
 В файле style.xml описаны для стиля DarkAccentOverlay и LightAccentOverlay.
 Они используются для темизирования кнопки в примере ниже.
 
-![Example gif](/example.webm)
+![Example gif](/example.gif)
 
 - Default Button – обычная статическая кнопка по стилем по умолчанию
 
