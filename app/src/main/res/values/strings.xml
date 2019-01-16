@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OverlayInflation</string>
+    <string name="desc">Пример демонстрирует вариант использования LayoutFactory для реализации статического темизирования определенных виджетов приложения.</string>
+    <string name="static_btn">Static Button</string>
+    <string name="def_btn">Default Button</string>
+    <string name="mode_sw">Dark mode</string>
+    <string name="special_btn">Special Button</string>
+    <string name="enabled">Enabled</string>
+</resources>
